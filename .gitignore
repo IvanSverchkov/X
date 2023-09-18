@@ -1,0 +1,5 @@
+node_modules
+build
+hash.txt
+.vscode
+.DS_Store
