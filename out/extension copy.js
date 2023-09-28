@@ -12,4 +12,4 @@ function activate(context) {
 exports.activate = activate;
 function deactivate() { }
 exports.deactivate = deactivate;
-//# sourceMappingURL=extension.js.map
+//# sourceMappingURL=extension%20copy.js.map
